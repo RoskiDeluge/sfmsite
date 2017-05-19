@@ -1,0 +1,1 @@
+This was the first project I completed for freeCodeCamp. It's a simple tribute page to an amazing little creature, the Japanese pufferfish. 
