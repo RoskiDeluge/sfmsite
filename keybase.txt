@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/roskideluge
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sfmsite-iqmvsuqtrn.now.sh
+  * I am roskideluge (https://keybase.io/roskideluge) on keybase.
+  * I have a public key ASCM14f0pQdQbBa8OGhdIR-qfvhse0dHbG-Bn9Ws01EEnQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206d959f1904a5c91b0b11787fdb85e15e705859bbc34fbe4bcb52801ec3eb2cb80a",
+      "host": "keybase.io",
+      "kid": "01208cd787f4a507506c16bc38685d211faa7ef86c7b47476c6f819fd5acd351049d0a",
+      "uid": "7acb2752436ac88ed1bdca0f49dcec19",
+      "username": "roskideluge"
+    },
+    "merkle_root": {
+      "ctime": 1537577614,
+      "hash": "5e7c35f83b8901f281a4501a70a2e936b83446848197d5db7b3ac6fa43568bb86e70d0fa5565870a54b78a2643aa4544adb62abcca44dd794fec333edf8ebb7e",
+      "hash_meta": "3afcbba2e4edb303aa9a040b53e5f69601c195baf03ce3930d1da9780c3461b5",
+      "seqno": 3655862
+    },
+    "service": {
+      "entropy": "ZGdq/k0JqR0Uzfisc16p0F0j",
+      "hostname": "sfmsite-iqmvsuqtrn.now.sh",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.6.2"
+  },
+  "ctime": 1537577715,
+  "expire_in": 504576000,
+  "prev": "fa229bb3cfef94d3e39e659e05b97c591ea12559c363ceb8288d6855b8890409",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjNeH9KUHUGwWvDhoXSEfqn74bHtHR2xvgZ/VrNNRBJ0Kp3BheWxvYWTESpcCEMQg+iKbs8/vlNPjnmWeBbl8WR6hJVnDY864KI1oVbiJBAnEIIlLaFSmlVLfC8zvktVC16qc6YzvmUKVflJH8E0Pl9B1AgHCo3NpZ8RAfVTJ8QgkT4XvZ93bV+eou6nI3u7Iv7/vMYn4FfAvdLtYgMjPTJG/bRpX2Jd6yvQWWk1UVe7nYMG1QZvUKC/+AqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICqdz/rKbF7SxdvnJEgm6Q7snfJ/bopUoTQNmpkh8e6Ko3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/roskideluge
+
+==================================================================
