@@ -2,10 +2,21 @@
   margin-top: 10px;
 } */
 
+.mandala {
+	background-image: url('https://cdn-images-1.medium.com/max/800/1*W3RYDCrTx8gq-1-JsZkPKQ.png');
+	background-size: cover;
+}
+
 #header {
 	font-family: 'Shrikhand', cursive;
 	font-size: 4rem;
+	color: orange;
+	width: 100vw;
+	height: 25vh;
+	display:flex;
+	align-items: center;
 }
+
 
 @media only screen and (max-width: 600px) {
 	#header {
