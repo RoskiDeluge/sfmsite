@@ -3,42 +3,45 @@
 } */
 
 .mandala {
-	background-image: url('https://cdn-images-1.medium.com/max/800/1*W3RYDCrTx8gq-1-JsZkPKQ.png');
-	background-size: cover;
+  background-image: url("https://cdn-images-1.medium.com/max/800/1*W3RYDCrTx8gq-1-JsZkPKQ.png");
+  background-size: cover;
 }
 
 #header {
-	font-family: 'Shrikhand', cursive;
-	font-size: 4rem;
-	color: orange;
-	width: 100vw;
-	height: 25vh;
-	display:flex;
-	align-items: center;
+  font-family: "Shrikhand", cursive;
+  font-size: 4rem;
+  color: orange;
+  /* width: 100vw; */
+  height: 40vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-
 @media only screen and (max-width: 600px) {
-	#header {
-		font-size: 2rem;
-	}
+  #header {
+    font-size: 2rem;
+  }
 
-	.container h2 {
-		font-size: 1rem;
-	}
+  .container h2 {
+    font-size: 1rem;
+  }
 
-	.container h5 {
-		font-size: 1rem;
-	}
-
+  .container h5 {
+    font-size: 1rem;
+  }
 }
 
 footer {
-	display: flex;
-	justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 #footertext {
-	color: tomato;
+  color: tomato;
 }
 
+#pfish {
+  font-size: 0.5rem;
+}
